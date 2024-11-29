@@ -1,0 +1,34 @@
+<Students>
+    <Student>
+        <Name>Jaisri</Name>
+        <Email>saluva.jayasri@gmail.com</Email>
+        <Addresses>
+            <PermAddress>
+                <AddressLine1>BTM</AddressLine1>
+                <AddressLine2>UDIPI Garden</AddressLine2>
+                <Street>BTM 1st stage</Street>
+            </PermAddress>
+            <CurrentAddress>
+                <AddressLine1>BTM</AddressLine1>
+                <AddressLine2>UDIPI Garden</AddressLine2>
+                <Street>BTM 1st stage</Street>
+            </CurrentAddress>
+        </Addresses>
+    </Student>
+    <Student>
+        <Name>Jaisri</Name>
+        <Email>saluva.jayasri@gmail.com</Email>
+        <Addresses>
+            <PermAddress>
+                <AddressLine1>BTM</AddressLine1>
+                <AddressLine2>UDIPI Garden</AddressLine2>
+                <Street>BTM 1st stage</Street>
+            </PermAddress>
+            <CurrentAddress>
+                <AddressLine1>BTM</AddressLine1>
+                <AddressLine2>UDIPI Garden</AddressLine2>
+                <Street>BTM 1st stage</Street>
+            </CurrentAddress>
+        </Addresses>
+    </Student>
+</Students>

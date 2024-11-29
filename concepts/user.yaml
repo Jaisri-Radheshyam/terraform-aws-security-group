@@ -1,0 +1,21 @@
+# YAML works on indentation, means space
+- Name: Jaisri
+  Email: saluva.jayasri@gmail.com
+  Addresses: #list of address
+  - type: perm
+    addressline1: btm layout
+    addressline2: udipi garden
+  - type: current
+    addressline1: BTM layout
+    addressline2: marathalli
+
+- Name: Radheshyam
+  Email: ramesh@joindevops.com
+  Addresses: #list of address
+  - type: perm
+    addressline1: btm layout
+    addressline2: udipi garden
+  - type: current
+    addressline1: btm layout
+    addressline2: udipi garden    
+    

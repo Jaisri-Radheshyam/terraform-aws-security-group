@@ -1,0 +1,17 @@
+{
+    "name": "Jaisri",
+    "email": "saluva.jayasri@gmail.com",
+    "addresses": 
+    [
+        {
+            "type": "perm",
+            "addressline1": "BTM layout",
+            "addressline2": "Udipi Garden"
+        },
+        {
+            "type": "current",
+            "addressline1": "BTM layout",
+            "addressline2": "Udipi Garden"
+        }
+    ]
+}
