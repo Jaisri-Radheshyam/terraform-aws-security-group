@@ -1,6 +1,0 @@
-[submodule "expense-shell"]
-	path = expense-shell
-	url = https://github.com/username/expense-shell.git
-[submodule "git-practice"]
-	path = git-practice
-	url = https://github.com/username/git-practice.git

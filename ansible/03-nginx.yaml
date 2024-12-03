@@ -1,7 +1,0 @@
-- name: nginx install and run
-  hosts: web
-  tasks:
-  - name: install nginx
-    ansible.builtin.package: #heterongenous 
-      name: nginx
-      state: present
