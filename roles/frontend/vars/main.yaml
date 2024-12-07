@@ -1,4 +1,0 @@
-
-BACKEND_HOST: backend.daws-81s.fun
-app_location: /usr/share/nginx/html
-component: frontend

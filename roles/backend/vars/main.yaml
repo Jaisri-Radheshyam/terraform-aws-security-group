@@ -1,4 +1,0 @@
-mysql_root_password: ExpenseApp@1
-login_host: mysql.daws-81s.fun
-app_location: /app
-component: backend
