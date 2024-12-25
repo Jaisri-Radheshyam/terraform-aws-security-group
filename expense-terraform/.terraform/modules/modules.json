@@ -1,0 +1,1 @@
+{"Modules":[{"Key":"","Source":"","Dir":"."},{"Key":"mysql_sg","Source":"../terraform-aws-security-group","Dir":""},{"Key":"vpc","Source":"git::https://github.com/Jaisri-Radheshyam/terraform-aws-vpc.git?ref=main","Dir":".terraform/modules/vpc"}]}
